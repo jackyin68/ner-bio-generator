@@ -73,5 +73,5 @@
 
 
 
-# ner-bio-generator
+# [ner-bio-generator](https://github.com/jackyin68/ner-bio-generator)
 NER, BIO, BIOES, generator, adapter, nlp, jieba, keras, idcnn, lstm
