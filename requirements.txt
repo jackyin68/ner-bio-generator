@@ -32,7 +32,7 @@ numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1588605080954/wo
 opt-einsum==3.2.1
 packaging==20.1
 parsel==1.5.2
-protobuf==3.11.4
+protobuf==3.15.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
 pycparser==2.20
