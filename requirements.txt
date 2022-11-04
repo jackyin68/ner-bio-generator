@@ -52,7 +52,7 @@ tensorflow==1.15.2
 tensorflow-estimator==1.15.1
 tensorflow-tensorboard==1.5.1
 termcolor==1.1.0
-Twisted==20.3.0
+Twisted==22.10.0
 w3lib==1.20.0
 webencodings==0.5.1
 Werkzeug==1.0.1
